@@ -1,0 +1,7 @@
+packing.c:7:13:copy_array	32	static
+packing.c:35:6:pqcrystals_dilithium_pack_pk	32	static
+packing.c:68:6:pqcrystals_dilithium_unpack_pk	32	static
+packing.c:105:6:pqcrystals_dilithium_pack_sk	32	static
+packing.c:155:6:pqcrystals_dilithium_unpack_sk	32	static
+packing.c:202:6:pqcrystals_dilithium_pack_sig	40	static
+packing.c:245:5:pqcrystals_dilithium_unpack_sig	40	static

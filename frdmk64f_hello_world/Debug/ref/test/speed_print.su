@@ -1,0 +1,4 @@
+speed_print.c:8:12:cmp_uint64	16	static
+speed_print.c:14:17:median	16	static
+speed_print.c:21:17:average	24	static
+speed_print.c:31:6:print_results	32	static

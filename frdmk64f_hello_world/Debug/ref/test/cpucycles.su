@@ -1,0 +1,4 @@
+cpucycles.h:33:24:cpucycles	16	static
+cpucycles.c:4:10:cpucycles_overhead	24	static
+cpucycles.c:19:6:cpucycles_init	4	static
+cpucycles.c:28:6:cpucycles_end	4	static

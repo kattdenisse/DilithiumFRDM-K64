@@ -1,0 +1,13 @@
+aes.c:20:24:br_swap32	16	static
+aes.c:26:20:inc1_be	24	static
+aes.c:31:20:inc2_be	24	static
+aes.c:36:6:aes128_ecb_keyexp	16	static
+aes.c:49:6:aes128_ecb	64	static
+aes.c:74:6:aes128_ctr_keyexp	16	static
+aes.c:88:6:aes128_ctr	112	static
+aes.c:131:6:aes128_ctx_release	16	static
+aes.c:136:6:aes256_ecb_keyexp	16	static
+aes.c:149:6:aes256_ecb	64	static
+aes.c:174:6:aes256_ctr_keyexp	16	static
+aes.c:186:6:aes256_ctr	112	static
+aes.c:229:6:aes256_ctx_release	16	static

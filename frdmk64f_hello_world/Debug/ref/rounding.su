@@ -1,0 +1,4 @@
+rounding.c:17:9:pqcrystals_dilithium_power2round	24	static
+rounding.c:39:9:pqcrystals_dilithium_decompose	24	static
+rounding.c:67:14:pqcrystals_dilithium_make_hint	16	static
+rounding.c:84:9:pqcrystals_dilithium_use_hint	24	static

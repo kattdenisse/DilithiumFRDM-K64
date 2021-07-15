@@ -1,0 +1,4 @@
+PQCgenKAT_sign.c:30:1:PQCgenKAT_vInit	8504	static
+PQCgenKAT_sign.c:165:1:FindMarker	80	static
+PQCgenKAT_sign.c:205:1:ReadHex	40	static
+PQCgenKAT_sign.c:249:1:fprintBstr	40	static

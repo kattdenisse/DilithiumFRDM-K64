@@ -1,0 +1,7 @@
+reduce.c:15:10:pqcrystals_dilithium_montgomery_reduce	64	static
+reduce.c:36:10:pqcrystals_dilithium_reduc32	24	static
+reduce.c:54:10:pqcrystals_dilithium_csubq	16	static
+reduce.c:70:10:pqcrystals_dilithium_freeze	16	static
+reduce.c:115:9:reduce32_signed	24	static
+reduce.c:133:10:csubaddq	16	static
+reduce.c:151:10:freeze_signed	24	static

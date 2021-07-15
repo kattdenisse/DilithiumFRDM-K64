@@ -1,0 +1,5 @@
+sign.c:22:5:crypto_sign_keypair	59600	static
+sign.c:79:5:crypto_sign_signature	78336	static
+sign.c:195:5:crypto_sign	40	static
+sign.c:223:5:crypto_sign_verify	56472	static
+sign.c:321:5:crypto_sign_open	40	static
